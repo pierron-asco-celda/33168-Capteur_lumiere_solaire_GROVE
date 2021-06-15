@@ -37,7 +37,7 @@ Pour l’utilisation de ce module, référez-vous aux indications présentes sur
 
 # RESSOURCES À TÉLÉCHARGER :
 
-Ressource utilisation : [SI1145-46-47](https://github.com/pierron-asco-celda/33136-Emetteur_infrarouge_GROVE/blob/main/src/Datasheet_tsal6200.pdf)
+Ressource utilisation : [SI1145-46-47](https://github.com/pierron-asco-celda/33168-Capteur_lumiere_solaire_GROVE/blob/main/src/Datasheet_SI1145-46-47.pdf)
 
 # Exemple :
 ### Arduino / C++
