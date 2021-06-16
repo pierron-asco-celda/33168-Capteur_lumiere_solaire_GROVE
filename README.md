@@ -68,7 +68,7 @@ void loop() {
   Serial.print("Lumière IR : ");
   Serial.println(SI1145.ReadIR());
   Serial.print("Lumière UV : ");
-  Serial.println((float)SI1145.ReadUV() / 100);
+  Serial.println((float)SI1145.ReadUV() / 100); // cf. datasheet
   Serial.println("--------------------------------------");
   delay(1000);
 }
